@@ -29,7 +29,7 @@
           "OS=='linux'",
           {
             "ldflags": [
-              "-static-libstdc++"
+#              "-static-libstdc++",
             ]
           }
         ]
